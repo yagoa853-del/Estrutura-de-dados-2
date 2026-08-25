@@ -48,10 +48,10 @@ $$\text{Nota Final (NF)} = A1 + A2$$
 
 ## 🛠️ Tecnologias Utilizadas
 *   **Linguagem de Programação:** Python 3.x *(Foco em mapeamento de memória)*
-*   **Ambiente:** VS Code / Git
+*   **Ambiente:** VS Code Colab Gdb / Git
 
 ---
 
 ## 🧑‍💻 Autor
-*   **Seu Nome / Matrícula**
-*   Curso: Ciência da Computação (Bacharelado) — UDF
+*   **Yago Alves de Carvalho/ 45313172**
+*   Curso: Engenharia de Software (Bacharelado) — UDF
