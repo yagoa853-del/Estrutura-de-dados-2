@@ -53,5 +53,5 @@ $$\text{Nota Final (NF)} = A1 + A2$$
 ---
 
 ## 🧑‍💻 Autor
-*   **Yago Alves de Carvalho/ 45313172**
+*   **Yago Alves de Carvalho/ Matrícula 45313172**
 *   Curso: Engenharia de Software (Bacharelado) — UDF
