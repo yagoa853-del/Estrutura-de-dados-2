@@ -63,6 +63,50 @@ print("-" * 50)
 
 ---
 
+## 📸 Evidências da Execução (Resultados Obtidos)
+
+```text
+Lista inicial
+Estado atual da lista: [10, 20, 30] | ID da Lista: 126594003954816
+Índice 0: valor = 10 | id = 94240188489560
+Índice 1: valor = 20 | id = 94240188489880
+Índice 2: valor = 30 | id = 94240188490200
+--------------------------------------------------
+Após append: [10, 20, 30, 50] | ID da Lista: 126594003954816
+Índice 0: valor = 10 | id = 94240188489560
+Índice 1: valor = 20 | id = 94240188489880
+Índice 2: valor = 30 | id = 94240188490200
+Índice 3: valor = 50 | id = 94240188490840
+--------------------------------------------------
+Após insert: [10, 20, 12, 30, 50] | ID da Lista: 126594003954816
+Índice 0: valor = 10 | id = 94240188489560
+Índice 1: valor = 20 | id = 94240188489880
+Índice 2: valor = 12 | id = 94240188489624
+Índice 3: valor = 30 | id = 94240188490200
+Índice 4: valor = 50 | id = 94240188490840
+--------------------------------------------------
+Após remove: [10, 20, 30, 50] | ID da Lista: 126594003954816
+Índice 0: valor = 10 | id = 94240188489560
+Índice 1: valor = 20 | id = 94240188489880
+Índice 2: valor = 30 | id = 94240188490200
+Índice 3: valor = 50 | id = 94240188490840
+--------------------------------------------------
+Após pop: [20, 30, 50] | ID da Lista: 126594003954816
+Índice 0: valor = 20 | id = 94240188489880
+Índice 1: valor = 30 | id = 94240188490200
+Índice 2: valor = 50 | id = 94240188490840
+--------------------------------------------------
+Após alteração: [20, 7, 50] | ID da Lista: 126594003954816
+Índice 0: valor = 20 | id = 94240188489880
+Índice 1: valor = 7 | id = 94240188489464
+Índice 2: valor = 50 | id = 94240188490840
+--------------------------------------------------
+Após clear: [] | ID da Lista: 126594003954816
+--------------------------------------------------
+```
+
+---
+
 ## 🧠 Respostas da Atividade
 
 ### a) O id() da lista mudou durante as operações? O que isso indica?
